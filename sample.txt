@@ -1,1 +1,1 @@
-Adding  a  new line 
+Make some manual changes directly in the file. 
